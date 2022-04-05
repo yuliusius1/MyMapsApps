@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568880193875",
+    "firebase_url": "https://mapsapi-345417-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mapsapi-345417",
+    "storage_bucket": "mapsapi-345417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568880193875:android:8bc1d57095305de84e41a6",
+        "android_client_info": {
+          "package_name": "com.coba.mymapsapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568880193875-qofjeuqfh7tk11o0r8fbb98pa4uvd83c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACqEZ-OvlDU9ZxPHkXVemzuObfkwvYXbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568880193875-qofjeuqfh7tk11o0r8fbb98pa4uvd83c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
